@@ -1,9 +1,9 @@
 Data description
 ===
 
-Initial MXFold2 data can be found at - https://doi.org/10.5281/zenodo.4430150
-For pseudoknots data PseudoBase database was parsed - https://www.ekevanbatenburg.nl/PKBASE (https://doi.org/10.1093/nar/28.1.201)
-For augmentation RNAcentral data was used - https://rnacentral.org/downloads
+Initial MXFold2 data can be found at - https://doi.org/10.5281/zenodo.4430150\
+For pseudoknots data PseudoBase database was parsed - https://www.ekevanbatenburg.nl/PKBASE (https://doi.org/10.1093/nar/28.1.201)\
+For augmentation RNAcentral data was used - https://rnacentral.org/downloads\
 
 # Files
 - AllData750_family_names.fasta - filtered MXFold2 data with family names assigned by Rfam
